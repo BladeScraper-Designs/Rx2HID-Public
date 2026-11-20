@@ -2,6 +2,8 @@
 
 Official firmware, manual, and companion software releases for **Rx2HID**.
 
+Download the latest Rx2HID Utility **[here](https://github.com/BladeScraper-Designs/Rx2HID-Public/releases)**.
+
 
 ## User Manual
 
